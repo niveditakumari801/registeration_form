@@ -71,7 +71,7 @@ const RegistrationForm = () => {
                   isValid = false;
               
                   errors.number = "Please enter valid phone number.";
-              
+            
                 }
               
               }
